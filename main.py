@@ -1,1 +1,1 @@
-print("Salom! Bu fay githubga yuklandi")
+print("Salom! Bu fayl githubga yuklandi")
