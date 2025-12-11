@@ -1,0 +1,1 @@
+print("Salom! Bu fay githubga yuklandi")
